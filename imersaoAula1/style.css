@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url("./money.jpeg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+  
+  .container {
+    text-align: center;
+    padding: 20px;
+    height: 100vh;
+  }
+  
+  .page-title {
+    color: black;
+    margin: 0 0 5px;
+  }
+  
+  .page-subtitle {
+    color: black;
+    margin-top: 5px;
+  }
+  
+  .page-logo {
+    width: 200px;
+  }
+  
+  .alura-logo {
+    width: 40px;
+    position: absolute;
+    top: 10px;
+    right:10px;
+  }
