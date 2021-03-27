@@ -1,0 +1,50 @@
+body {
+  font-family: 'Roboto Mono',monospace;
+  min-height: 854px;
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-image: url(./background.jpeg);
+}
+
+h1 {
+  position: absolute;
+  font-size:49px;
+  font-weight:bold;
+  left: 220px;
+  text-align:center;
+  z-index: auto;
+}
+
+h2 {
+  position: absolute;
+  font-size:18px;
+  font-weight:bold;
+  top: 250px;
+  left: 320px;
+  width: 145px;
+  text-align:center;
+}
+
+h3 {
+  position: absolute;
+  font-size:16px;
+  font-weight:bold;
+  top: 329px;
+  left: 320px;
+  width: 145px;
+  text-align:center;
+}
+
+h4 {
+  position: absolute;
+  font-size:14px;
+  font-weight:bold;
+  top: 429px;
+  left: 320px;
+  width: 145px;
+  text-align:center;
+  font-style: oblique;
+}
+
+
