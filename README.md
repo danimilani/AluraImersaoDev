@@ -40,6 +40,10 @@ Desafios dessa aula! 🤔
 
 Exibir um pokemon na tela e pedir para o usuario escrever o nome desse pokemon. Exibir se acertou ou errou o nome.
 
+Eu fiz um teste de inglês:
+
+![Desafio2](https://raw.github.com/danimilani/AluraImersaoDev/main/screenshotDesafio2.png)
+
 ### Dia 3 - Mentalista
 
 Na terceira aula da imersão dev, criei um projeto de adivinhação. Para isso, utilizei a função Math.random() para gerar números aleatórios.
