@@ -42,6 +42,8 @@ Exibir um pokemon na tela e pedir para o usuario escrever o nome desse pokemon. 
 
 Eu fiz um teste de inglês:
 
+- [Site do Desafio 2](https://danimilani.github.io/desafioAula2ImersaoDev)
+
 ![Desafio2](https://raw.github.com/danimilani/AluraImersaoDev/main/screenshotDesafio2.png)
 
 ### Dia 3 - Mentalista
