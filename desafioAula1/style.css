@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(./ice.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color: rgb(138, 201, 243);
+  }
+  
+  .container {
+    text-align: center;
+    padding: 20px;
+    height: 40vh;
+  }
+  
+  .formulario {
+    text-align: center;
+    padding-left: 20px;
+  }
+
+  .page-title {
+    color: black;
+    margin: 0 0 5px;
+  }
+  
+  .page-subtitle {
+    color: black;
+    margin-top: 5px;
+  }
+  
+  .page-logo {
+    width: 200px;
+  }
+  
+  .alura-logo {
+    width: 40px;
+    position: absolute;
+    top: 10px;
+    right:10px;
+  }
+
+  .form-wrapper {
+    margin: 0 0 15px;
+  }
+
+  .h3{
+    text-align: center;
+    margin-top:90px;
+  }
