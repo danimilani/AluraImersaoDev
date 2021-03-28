@@ -1,4 +1,4 @@
-# 🖥  AluraImersaoDev 🖥
+# 🖥  Imersao Dev Alura - Javascript 🖥
 
 Olá pessoal,
 
