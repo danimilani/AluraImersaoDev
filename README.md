@@ -26,7 +26,7 @@ Você pode conferir o site que eu desenvolvi no link abaixo:
 
 - [Site do Desafio 1](https://danimilani.github.io/desafioAula1ImersaoDev/)
 
-![Desafio 1](/relative/path/to/screenshotDesafio1.png?raw=true "Desafio1")
+![Alt text](/../AluraImersaoDev/path/to/screenshotDesafio1.png?raw=true "Optional Title")
 
 ### Dia 2 - Calculadora
 
