@@ -20,6 +20,8 @@ Criar um programa que converta libra em dolar, ou graus Celsius para Fahrenheit;
 
 Exibir o resultado da conversão na tela, no lugar da função alert.
 
+- [Desafio 1](https://github.com/danimilani/AluraImersaoDev/tree/main/desafioAula1)
+
 ### Dia 2 - Calculadora
 
 Nesta aula aprendi a criar os laços condicionais, utilizando IF e ELSE. Utilizei os cálculos matemáticos da aula anterior para fazer a calculadora funcionar, sempre comparando com a função escolhida pelo usuário.
