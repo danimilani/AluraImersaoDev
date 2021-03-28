@@ -14,7 +14,7 @@ Também foi possível aprender as diferenças entre variáveis de texto e númer
 
 - [Projeto desenvolvido durante a aula](https://github.com/danimilani/AluraImersaoDev/tree/main/imersaoAula1)
 
-Desafios dessa aula! 🤔
+*Desafios dessa aula!* 🤔
 
 Criar um programa que converta libra em dolar, ou graus Celsius para Fahrenheit;
 
@@ -40,7 +40,7 @@ Além de gerar números aleatórios, para caracterizar este projeto como um "jog
 
 - [Projeto desenvolvido durante a aula](https://github.com/danimilani/AluraImersaoDev/tree/main/imersaoAula3)
 
-Desafios dessa aula! 🤔
+*Desafios dessa aula!* 🤔
 
 Modifique o cenário do mentalista e adicione mecanismos de chances, pontos e etc!
 
@@ -56,7 +56,7 @@ Também foi possível entender o comprimento de um array através do array.lengt
 
 - [Projeto desenvolvido durante a aula](https://github.com/danimilani/AluraImersaoDev/tree/main/imersaoAula4)
 
-Desafios dessa aula! 🤔
+*Desafios dessa aula!* 🤔
 
 Criar uma array adicional com o nome dos filmes e trabalhar com as duas ao mesmo tempo, unindo imagens e textos através dos índices;
 
@@ -74,7 +74,7 @@ Adicionalmente, aprendi a verificar se um texto termina com determinados caracte
 
 - [Projeto desenvolvido durante a aula](https://github.com/danimilani/AluraImersaoDev/tree/main/imersaoAula5)
 
-Desafios dessa aula! 🤔
+*Desafios dessa aula!* 🤔
 
 Substituir o pôster de cada filme pelo trailer. Dica: pesquisem pela opção embed no menu de compartilhamento do YouTube;
 
