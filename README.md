@@ -26,6 +26,8 @@ Você pode conferir o site que eu desenvolvi no link abaixo:
 
 - [Site do Desafio 1](https://danimilani.github.io/desafioAula1ImersaoDev/)
 
+![Desafio 1](/relative/path/to/screenshotDesafio1.png?raw=true "Desafio1")
+
 ### Dia 2 - Calculadora
 
 Nesta aula aprendi a criar os laços condicionais, utilizando IF e ELSE. Utilizei os cálculos matemáticos da aula anterior para fazer a calculadora funcionar, sempre comparando com a função escolhida pelo usuário.
