@@ -21,6 +21,9 @@ Criar um programa que converta libra em dolar, ou graus Celsius para Fahrenheit;
 Exibir o resultado da conversão na tela, no lugar da função alert.
 
 - [Código do Desafio 1](https://github.com/danimilani/AluraImersaoDev/tree/main/desafioAula1)
+
+Você pode conferir o site que eu desenvolvi no link abaixo:
+
 - [Site do Desafio 1] (https://danimilani.github.io/desafioAula1ImersaoDev/)
 
 ### Dia 2 - Calculadora
