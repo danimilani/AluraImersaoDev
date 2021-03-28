@@ -24,7 +24,7 @@ Exibir o resultado da conversão na tela, no lugar da função alert.
 
 Você pode conferir o site que eu desenvolvi no link abaixo:
 
-- [Site do Desafio 1] (https://danimilani.github.io/desafioAula1ImersaoDev/)
+- [Site do Desafio 1](https://danimilani.github.io/desafioAula1ImersaoDev/)
 
 ### Dia 2 - Calculadora
 
