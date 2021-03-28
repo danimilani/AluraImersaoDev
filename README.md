@@ -62,6 +62,10 @@ O comando break pode ser substituído para que o código saia do while sem ele. 
 
 Alterar o math.random() para funcionar com outros intervalos entre números.
 
+- [Site do Desafio 3](https://danimilani.github.io/desafioAula3ImersaoDev)
+
+![Desafio3](https://raw.github.com/danimilani/AluraImersaoDev/main/screenshotDesafio3.png)
+
 ### Dia 4 - Aluraflix
 
 Com essa aula pude aprender a criar arrays para consolidar as variáveis e também incluir itens nesta lista através do push.
