@@ -1,6 +1,6 @@
-# 🖥   Imersao Dev Alura - Javascript  🖥
+#  Imersão Dev Alura - Javascript  🖥
 
-Olá pessoal,
+Olá!
 
 Compartilho neste repositório os projetos e desafios desenvolvidos durante a Imersão Dev da Alura, em Março de 2021.
 
