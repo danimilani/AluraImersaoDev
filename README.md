@@ -48,7 +48,7 @@ No lugar dos pokemons, eu elaborei um teste de inglês com algums animais:
 
 ### Dia 3 - Mentalista
 
-Na terceira aula da imersão dev, criei um projeto de adivinhação. Para isso, utilizei a função Math.random() para gerar números aleatórios.
+Na terceira aula da imersão dev, criei um projeto de adivinhação. Para isso, utilizei a função Math.random(), que gera números aleatórios.
 
 Além de gerar números aleatórios, para caracterizar este projeto como um "jogo" para o usuário, aprendi a utilizar laços de repetição (loops) com o while. Assim, a cada chute errado, o usuário perde uma tentativa.
 
