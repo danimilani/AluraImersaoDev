@@ -84,7 +84,7 @@ Continuando o desafio acima, como fazer com que um filme só seja exibido uma ve
 
 Eu criei uma página onde o usuário seleciona o filme que deseja assistir e é redirecionado ao trailer no Youtube:
 
-- [Site do Desafio 4](https://danimilani.github.io/desafioAula2ImersaoDev)
+- [Site do Desafio 4](https://danimilani.github.io/desafioAula4ImersaoDev)
 
 ![Desafio4](https://raw.github.com/danimilani/AluraImersaoDev/main/screenshotDesafio4.png)
 
