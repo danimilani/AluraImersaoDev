@@ -82,6 +82,12 @@ Exibir um prompt() com uma lista de filmes e exibir na tela somente o filme esco
 
 Continuando o desafio acima, como fazer com que um filme só seja exibido uma vez?
 
+Eu criei uma página onde o usuário seleciona o filme que deseja assistir e é redirecionado ao trailer no Youtube:
+
+- [Site do Desafio 4](https://danimilani.github.io/desafioAula2ImersaoDev)
+
+![Desafio4](https://raw.github.com/danimilani/AluraImersaoDev/main/screenshotDesafio4.png)
+
 ### Dia 5 - Aluraflix com funções
 
 Nesta aula, incrementei o projeto da aula 4 com alguns aprendizados que tive. 
