@@ -36,7 +36,7 @@ Também aprendi a utilizar o document.write() para exibir tanto os valores escol
 
 - [Projeto desenvolvido durante a aula](https://github.com/danimilani/AluraImersaoDev/tree/main/imersaoAula2)
 
-Desafios dessa aula! 🤔
+*Desafios dessa aula!* 🤔
 
 Exibir um pokemon na tela e pedir para o usuario escrever o nome desse pokemon. Exibir se acertou ou errou o nome.
 
