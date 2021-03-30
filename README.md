@@ -40,7 +40,7 @@ Também aprendi a utilizar o document.write() para exibir tanto os valores escol
 
 Exibir um pokemon na tela e pedir para o usuario escrever o nome desse pokemon. Exibir se acertou ou errou o nome.
 
-No lugar dos pokemons, eu elaborei um teste de inglês com algums animais:
+No lugar dos pokemons, eu elaborei um teste de inglês com alguns animais:
 
 - [Site do Desafio 2](https://danimilani.github.io/desafioAula2ImersaoDev)
 
